@@ -9,10 +9,5 @@ Calculate Average: After you enter the scores, the program adds them together an
 
 Determine Grade: The program then checks the average and assigns a letter grade:
 
-A+ for 95 and above
-A for 90-94
-B for 80-89
-C for 70-79
-Below 70, it advises you to try for a better score next time
 Show Result: Finally, the program displays the average score and the corresponding letter grade on the screen.
 
